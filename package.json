@@ -1,0 +1,13 @@
+{
+  "name": "congtyxaydung",
+  "version": "1.0.0",
+  "repository": "https://github.com/Phu-Vu-Gia/congtyxaydung.git",
+  "author": "Phu-Vu-Gia <s4132254@rmit.edu.vn>",
+  "license": "MIT",
+  "scripts": {
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
